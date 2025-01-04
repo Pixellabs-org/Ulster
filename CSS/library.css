@@ -1,0 +1,29 @@
+.lib-banner{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-top: 80px;
+}
+
+.lib-banner img{
+    width: 100%;
+}
+
+.wlcm-library{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+
+    margin-top: 100px;
+}
+
+.wlcm-library .img{
+    width: 400px;
+    height: 400px;
+    color: black;
+}
